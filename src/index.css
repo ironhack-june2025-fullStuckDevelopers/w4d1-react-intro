@@ -51,3 +51,13 @@ button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
 }
 
+footer {
+  border-top: 1px solid #fff;
+}
+
+.box {
+  border: 1px solid #fff;
+  margin: 1rem;
+  padding: 1rem;
+}
+
